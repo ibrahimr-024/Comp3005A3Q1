@@ -8,7 +8,7 @@ Compilation: to be able to compile and run this program, within your terminal ru
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Database setup: Install PostgreSQL and ensure it is running on your local machine. Create a database named students.
-Use the provided SQL commands to create a table named students within your database.
+Use the provided SQL commands from the .txt file to create a table named students within your database.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Application Configuration: In the provided Python script, update the conn_params dictionary with your PostgreSQL database connection details.
